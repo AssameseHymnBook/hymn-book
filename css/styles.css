@@ -1,0 +1,415 @@
+img {
+  border: double;
+  border-width: 10px;
+}
+
+hr{
+  background: black;
+  border-style: solid;
+  border-top-style: solid;
+  border-width: 3px;
+}
+
+.contents {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none
+}
+body{
+border: double
+}
+
+.myButton {
+  box-shadow: 0px 10px 14px -7px #DEB6AB;
+  background: linear-gradient(to bottom, #9ED2C6 5%, #9ED2C6 100%);
+  background-color: #DEB6AB;
+  border-radius: 6px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 7px 35px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #3d768a;
+  &:hover {
+    background: linear-gradient(to bottom, #DEB6AB 5%, #599bb3 100%);
+    background-color: #408c99;}
+
+  &:active {
+    position: relative;
+    top: 1px;
+  }
+}
+
+.২৯৫ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৯৫a {
+  border-top: 0px;
+}
+
+.৩০০ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.৩০০a {
+  border-top: 0px;
+}
+
+.২৯৭ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৯৭a {
+  border-top: 0px;
+}
+
+.২৮১ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৮১a {
+  border-top: 0px;
+}
+
+.২৮৪ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৮৪a {
+  border-top: 0px;
+}
+
+.২৮৯ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৮৯a {
+  border-top: 0px;
+}
+
+.২৭২ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৭২a {
+  border-top: 0px;
+}
+
+.২৭৫ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৭৫a {
+  border-top: 0px;
+}
+
+.২৬৩ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৬৩a {
+  border-top: 0px;
+}
+
+.২৬৬ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৬৬a {
+  border-top: 0px;
+}
+
+.২৬৯ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৬৯a {
+  border-top: 0px;
+}
+
+.২৫১ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৫১a {
+  border-top: 0px;
+}
+
+.২৫৭ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৫৭a {
+  border-top: 0px;
+}
+
+.২৪১ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৪১a {
+  border-top: 0px;
+}
+
+.২৪৪ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৪৪a {
+  border-top: 0px;
+}
+
+.২২১ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২২১a {
+  border-top: 0px;
+}
+
+.২২৪ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২২৪a {
+  border-top: 0px;
+}
+
+.২৩০ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২৩০a {
+  border-top: 0px;
+}
+
+.২০২ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২০২a {
+  border-top: 0px;
+}
+
+.২০৫ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.২০৫a {
+  border-top: 0px;
+}
+
+.১৯৯ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১৯৯a {
+  border-top: 0px;
+}
+
+.১৯২ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১৯২a {
+  border-top: 0px;
+}
+
+.১৮২ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১৮২a {
+  border-top: 0px;
+}
+
+.১৮৬ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১৮৬a {
+  border-top: 0px;
+}
+
+.১৮৯ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১৮৯a {
+  border-top: 0px;
+}
+
+.১৭৩ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১৭৩a {
+  border-top: 0px;
+}
+
+.১৭৬ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১৭৬a {
+  border-top: 0px;
+}
+
+.১৬০ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১৬০a {
+  border-top: 0px;
+}
+
+.১২৬ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১২৭ {
+  border-top: 0px;
+}
+
+.১৩২ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১৩৩ {
+  border-top: 0px;
+}
+
+.১৩৬ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১৩৭ {
+  border-top: 0px;
+}
+
+.১১৮ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১১৯ {
+  border-top: 0px;
+}
+
+.১১৪ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১১৫ {
+  border-top: 0px;
+}
+
+.১০৬ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১০৭ {
+  border-top: 0px;
+}
+
+.১১০ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১১১ {
+  border-top: 0px;
+}
+
+.৯১ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.৯২ {
+  border-top: 0px;
+}
+
+.৯৫ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.৯৬ {
+  border-top: 0px;
+}
+
+.৮৮ {
+  border-top: 0px;
+}
+
+.৮৭ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.৮১ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.৮২ {
+  border-top: 0px;
+}
+
+.৭৩ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.০৭৪ {
+  border-top: 0px;
+}
+
+.১৬ {
+  display: block;
+  border-bottom: 0px;
+}
+
+.১৭ {
+  border-top: 0px;
+}
